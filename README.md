@@ -40,7 +40,6 @@ This project demonstrates real-time object detection using YOLOv8.
 
 ```python
 import cv2
-import torch
 from ultralytics import YOLO
 
 # Load the YOLOv8 model
@@ -84,7 +83,6 @@ This project demonstrates real-time object segmentation using YOLOv8.
 
 ```python
 import cv2
-import torch
 from ultralytics import YOLO
 
 # Load the YOLOv8 segmentation model
@@ -128,7 +126,6 @@ This project demonstrates real-time object tracking using YOLOv8.
 
 ```python
 import cv2
-import torch
 from ultralytics import YOLO
 
 # Load the YOLOv8 model
@@ -174,7 +171,6 @@ This project demonstrates real-time pose estimation using YOLOv8.
 
 ```python
 import cv2
-import torch
 from ultralytics import YOLO
 
 # Load the YOLOv8 pose estimation model
@@ -218,7 +214,6 @@ This project demonstrates real-time object counting using YOLOv8.
 
 ```python
 import cv2
-import torch
 from ultralytics import YOLO
 
 # Load the YOLOv8 model
@@ -266,7 +261,6 @@ This project demonstrates real-time customer detection in a retail environment u
 
 ```python
 import cv2
-import torch
 from ultralytics import YOLO
 
 # Load the YOLOv8 model trained for customer detection
